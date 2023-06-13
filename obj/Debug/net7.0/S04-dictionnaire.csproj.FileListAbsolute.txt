@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/bin/Debug/net7.0/S04-dictionnaire
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/bin/Debug/net7.0/S04-dictionnaire.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/bin/Debug/net7.0/S04-dictionnaire.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/bin/Debug/net7.0/S04-dictionnaire.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/bin/Debug/net7.0/S04-dictionnaire.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/refint/S04-dictionnaire.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/S04-dictionnaire.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-dictionnaire/obj/Debug/net7.0/ref/S04-dictionnaire.dll
